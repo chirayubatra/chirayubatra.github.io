@@ -5,7 +5,8 @@
 layout: default
 ---
 
-### Hi, I'm Chirayu 👋
+
+## Hi, I'm Chirayu 👋
 
 Nuclear Engineer • Reader • Amateur Writer • Wanderer • Believer • Life's Fan
 
