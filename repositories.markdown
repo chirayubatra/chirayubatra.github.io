@@ -4,7 +4,8 @@ title: Repositories
 permalink: /repositories/
 ---
 
-All information about the respositories here
+All the repositories are listed below, with a brief description. Most of the repositories have their own documentation, depending upon the requirement. 
+
 
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
