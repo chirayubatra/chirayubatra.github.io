@@ -19,6 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Chirayu Batra
+author:
+        name: Chirayu Batra
+        email: chirayu.batra@outlook.com
 email: chirayu.batra@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Scientific Computing and more...
@@ -52,3 +55,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+minima:
+  skin: dark
+  social_links:
+    twitter: chirayubatra
+    github: chirayubatra
+    linkedin: chirayubatra
+
+    #header_pages:
+    #  - about.markdown
+    #  - repositories.markdown
+
