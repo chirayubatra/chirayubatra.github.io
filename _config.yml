@@ -56,7 +56,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 minima:
-  skin: dark
+  skin: classic
   social_links:
     twitter: chirayubatra
     github: chirayubatra
