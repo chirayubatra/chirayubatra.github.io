@@ -7,6 +7,7 @@ permalink: /repositories/
 All the repositories are listed below, with a brief description. Most of the repositories have their own documentation, depending upon the requirement. 
 
 
+[repositories][github-repositories] /
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
@@ -19,5 +20,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization]: https://gityyhub.com/jekyll
 -->
+
+
+[github-repositories]: https://chirayubatra.github.io
